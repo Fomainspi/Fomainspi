@@ -11,6 +11,7 @@ I am passionate about building scalable, automated, and secure systems.
 With a strong background in **DevOps, Cloud Computing, and Automation**, I focus on designing efficient infrastructures and CI/CD pipelines.
 
 I am also the founder of **FOMA – Foundation Of Mastering Automation**, where I share knowledge and build practical DevOps solutions.
+<img width="1536" height="1024" alt="ChatGPT Image Apr 3, 2026, 09_50_31 AM" src="https://github.com/user-attachments/assets/e280112c-da1b-4a40-b40d-8c7cc549fc98" />
 
 ---
 
